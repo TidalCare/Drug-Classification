@@ -4,7 +4,7 @@ This repository is a hands-on guide for automating the ML lifecycle. It demonstr
 
 **Source Repository:** [kingabzpro/CICD-for-Machine-Learning](https://github.com/kingabzpro/CICD-for-Machine-Learning)
 
-![Dashboard Preview](assets/screenshot-2026-04-29.png)
+![Dashboard Preview](./assets/Screenshot%202026-04-29.png)
 
 ## 🚀 Key Features
 *   **Automated Training:** Retrains the model whenever new data is pushed.
