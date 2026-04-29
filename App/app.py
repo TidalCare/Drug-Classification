@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
-=======
 import gradio as gr
 
 def greet(name):
@@ -7,4 +5,3 @@ def greet(name):
 
 demo = gr.Interface(fn=greet, inputs="text", outputs="text")
 demo.launch()
->>>>>>> Stashed changes
